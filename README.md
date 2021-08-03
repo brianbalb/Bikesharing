@@ -1,6 +1,6 @@
 # Bikesharing
 
-[https://public.tableau.com/views/AugustRiderBreakdownbyGender/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]("link to dashboard")
+[https://public.tableau.com/views/AugustRiderBreakdownbyGender/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link] ("link to dashboard")
 
 ## Overview of the statistical analysis:
 
